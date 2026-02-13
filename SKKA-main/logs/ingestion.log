@@ -1,0 +1,27 @@
+2026-01-28 22:15:29 | INFO     | Initializing ChromaDB at: data\chromadb
+2026-01-28 22:31:52 | INFO     | Initializing ChromaDB at: data\chromadb
+2026-01-28 22:32:10 | INFO     | ✓ Embedding model loaded: sentence-transformers/all-MiniLM-L6-v2 (dim=384, device=cpu)
+2026-01-28 22:32:10 | INFO     | ✓ Created new collection 'nptel_lectures'
+2026-01-28 22:32:10 | INFO     | ================================================================================
+2026-01-28 22:32:10 | INFO     | CHROMADB INGESTION PIPELINE - START
+2026-01-28 22:32:10 | INFO     | ================================================================================
+2026-01-28 22:32:10 | INFO     | Loading documents from: data\intermediate\documents_raw.json
+2026-01-28 22:32:10 | INFO     | ✓ Loaded 36/36 valid documents
+2026-01-28 22:32:10 | INFO     | Processing 36 documents in 1 batches (batch_size=64)
+2026-01-28 22:32:11 | INFO     | Validation: 36 documents in collection
+2026-01-28 22:32:11 | INFO     | ✓ Validation passed
+2026-01-28 22:32:11 | INFO     | ✓ Test query successful
+2026-02-01 17:29:22 | INFO     | Initializing ChromaDB at: data\chromadb
+2026-02-01 17:29:59 | INFO     | Initializing ChromaDB at: data\chromadb
+2026-02-01 17:37:37 | INFO     | Initializing ChromaDB at: data\chromadb
+2026-02-01 17:38:24 | INFO     | ✓ Embedding model loaded: all-MiniLM-L6-v2 (dim=384, device=cpu)
+2026-02-01 17:38:24 | INFO     | ✓ Created new collection 'nptel_lectures'
+2026-02-01 17:38:24 | INFO     | ================================================================================
+2026-02-01 17:38:24 | INFO     | CHROMADB INGESTION PIPELINE - START
+2026-02-01 17:38:24 | INFO     | ================================================================================
+2026-02-01 17:38:24 | INFO     | Loading documents from: data\intermediate\documents_raw.json
+2026-02-01 17:38:24 | INFO     | ✓ Loaded 36/36 valid documents
+2026-02-01 17:38:24 | INFO     | Processing 36 documents in 1 batches (batch_size=64)
+2026-02-01 17:38:26 | INFO     | Validation: 36 documents in collection
+2026-02-01 17:38:26 | INFO     | ✓ Validation passed
+2026-02-01 17:38:26 | INFO     | ✓ Test query successful

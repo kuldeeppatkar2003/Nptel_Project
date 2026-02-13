@@ -1,0 +1,55 @@
+# ============================================================================
+# NPTEL Scraper - Production Requirements
+# ============================================================================
+# Python 3.8+ required
+
+# Core Web Scraping
+selenium
+webdriver-manager  # Automatic ChromeDriver management
+
+# Data Processing
+pandas
+numpy
+
+# PDF Processing
+pdfplumber
+
+# HTTP Requests
+requests
+urllib3
+
+# LangChain for Document Processing
+langchain-core
+
+# Progress Bars and UI
+tqdm
+
+# Environment Variables
+python-dotenv
+
+# ============================================================================
+# Installation Instructions:
+# ============================================================================
+# 
+# 1. Create virtual environment:
+#    python -m venv venv
+#
+# 2. Activate virtual environment:
+#    Windows: venv\Scripts\activate
+#    Linux/Mac: source venv/bin/activate
+#
+# 3. Install requirements:
+#    pip install -r requirements.txt
+#
+# ============================================================================
+
+chromadb
+streamlit
+plotly
+crewai
+crewai-tools
+python-dotenv
+langchain-community
+sentence-transformers
+langchain
+langchain-groq

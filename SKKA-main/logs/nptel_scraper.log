@@ -1,0 +1,112 @@
+2026-01-28 21:45:53 | NPTELScraper | INFO     | run:1149 | ================================================================================
+2026-01-28 21:45:53 | NPTELScraper | INFO     | run:1150 | NPTEL SCRAPER PIPELINE - START
+2026-01-28 21:45:53 | NPTELScraper | INFO     | run:1151 | ================================================================================
+2026-01-28 21:45:53 | NPTELScraper | INFO     | run:1152 | Configuration: {'output_dir': 'data\\intermediate', 'log_dir': 'logs', 'courses_csv': 'courses_list.csv', 'raw_documents_json': 'documents_raw.json', 'summary_json': 'pipeline_summary.json', 'log_file': 'nptel_scraper.log', 'max_courses': 1, 'target_language': 'English-Verified', 'start_course_index': 0, 'selenium_implicit_wait': 10, 'selenium_explicit_wait': 20, 'page_load_timeout': 60, 'script_timeout': 30, 'headless_mode': False, 'disable_gpu': True, 'no_sandbox': True, 'disable_dev_shm': True, 'window_size': '1920,1080', 'user_agent': None, 'request_timeout': 60, 'max_retries': 5, 'retry_backoff_factor': 2.0, 'retry_status_codes': [408, 429, 500, 502, 503, 504], 'delay_between_lectures': 1.0, 'delay_between_courses': 2.0, 'delay_after_download': 0.5, 'log_level': 'INFO', 'log_max_bytes': 10485760, 'log_backup_count': 5, 'console_log_level': 'INFO', 'pdf_text_cache_size': 100, 'enable_metrics': True, 'save_intermediate_results': True}
+2026-01-28 21:45:53 | NPTELScraper | INFO     | run:1153 | ================================================================================
+2026-01-28 21:45:53 | NPTELScraper | INFO     | run:1157 | 
+================================================================================
+2026-01-28 21:45:53 | NPTELScraper | INFO     | run:1158 | STEP 1: Scraping Courses List
+2026-01-28 21:45:53 | NPTELScraper | INFO     | run:1159 | ================================================================================
+2026-01-28 21:45:53 | NPTELScraper | INFO     | scrape:541 | ================================================================================
+2026-01-28 21:45:53 | NPTELScraper | INFO     | scrape:542 | Starting to scrape NPTEL courses list
+2026-01-28 21:45:53 | NPTELScraper | INFO     | scrape:543 | ================================================================================
+2026-01-28 21:45:54 | NPTELScraper | INFO     | get_driver:391 | Chrome WebDriver initialized successfully
+2026-01-28 21:45:54 | NPTELScraper | INFO     | scrape:548 | Navigating to https://nptel.ac.in/courses
+2026-01-28 21:45:56 | NPTELScraper | INFO     | scrape:559 | Found 3351 course cards on the page
+2026-01-28 21:50:20 | NPTELScraper | WARNING  | run:1235 | 
+
+Pipeline interrupted by user (Ctrl+C)
+2026-01-28 21:50:20 | NPTELScraper | INFO     | run:1247 | Cleanup completed
+2026-01-28 21:52:12 | NPTELScraper | INFO     | run:1149 | ================================================================================
+2026-01-28 21:52:12 | NPTELScraper | INFO     | run:1150 | NPTEL SCRAPER PIPELINE - START
+2026-01-28 21:52:12 | NPTELScraper | INFO     | run:1151 | ================================================================================
+2026-01-28 21:52:12 | NPTELScraper | INFO     | run:1152 | Configuration: {'output_dir': 'data\\intermediate', 'log_dir': 'logs', 'courses_csv': 'courses_list.csv', 'raw_documents_json': 'documents_raw.json', 'summary_json': 'pipeline_summary.json', 'log_file': 'nptel_scraper.log', 'max_courses': 1, 'target_language': 'English-Verified', 'start_course_index': 0, 'selenium_implicit_wait': 10, 'selenium_explicit_wait': 20, 'page_load_timeout': 60, 'script_timeout': 30, 'headless_mode': True, 'disable_gpu': True, 'no_sandbox': True, 'disable_dev_shm': True, 'window_size': '1920,1080', 'user_agent': None, 'request_timeout': 60, 'max_retries': 5, 'retry_backoff_factor': 2.0, 'retry_status_codes': [408, 429, 500, 502, 503, 504], 'delay_between_lectures': 1.0, 'delay_between_courses': 2.0, 'delay_after_download': 0.5, 'log_level': 'INFO', 'log_max_bytes': 10485760, 'log_backup_count': 5, 'console_log_level': 'INFO', 'pdf_text_cache_size': 100, 'enable_metrics': True, 'save_intermediate_results': True}
+2026-01-28 21:52:12 | NPTELScraper | INFO     | run:1153 | ================================================================================
+2026-01-28 21:52:12 | NPTELScraper | INFO     | run:1157 | 
+================================================================================
+2026-01-28 21:52:12 | NPTELScraper | INFO     | run:1158 | STEP 1: Scraping Courses List
+2026-01-28 21:52:12 | NPTELScraper | INFO     | run:1159 | ================================================================================
+2026-01-28 21:52:12 | NPTELScraper | INFO     | scrape:541 | ================================================================================
+2026-01-28 21:52:12 | NPTELScraper | INFO     | scrape:542 | Starting to scrape NPTEL courses list
+2026-01-28 21:52:12 | NPTELScraper | INFO     | scrape:543 | ================================================================================
+2026-01-28 21:52:13 | NPTELScraper | INFO     | get_driver:391 | Chrome WebDriver initialized successfully
+2026-01-28 21:52:13 | NPTELScraper | INFO     | scrape:548 | Navigating to https://nptel.ac.in/courses
+2026-01-28 21:52:15 | NPTELScraper | INFO     | scrape:559 | Found 3351 course cards on the page
+2026-01-28 22:02:34 | NPTELScraper | INFO     | scrape:578 | Successfully extracted 3351 courses
+2026-01-28 22:02:34 | NPTELScraper | INFO     | scrape:579 | Failed to extract 0 courses
+2026-01-28 22:02:34 | NPTELScraper | INFO     | scrape:584 | Saved courses list to: data\intermediate\courses_list.csv
+2026-01-28 22:02:37 | NPTELScraper | INFO     | run:1168 | 
+================================================================================
+2026-01-28 22:02:37 | NPTELScraper | INFO     | run:1169 | STEP 2: Scraping Course Transcripts
+2026-01-28 22:02:37 | NPTELScraper | INFO     | run:1170 | Processing 1 courses
+2026-01-28 22:02:37 | NPTELScraper | INFO     | run:1171 | ================================================================================
+2026-01-28 22:02:37 | NPTELScraper | INFO     | run:1182 | 
+================================================================================
+Processing Course 1/1
+================================================================================
+2026-01-28 22:02:37 | NPTELScraper | INFO     | scrape_course:685 | --------------------------------------------------------------------------------
+2026-01-28 22:02:37 | NPTELScraper | INFO     | scrape_course:686 | Scraping course: NOC:Introduction To Launch Vehicle Analysis And Design
+2026-01-28 22:02:37 | NPTELScraper | INFO     | scrape_course:687 | URL: https://nptel.ac.in/courses/101101086
+2026-01-28 22:02:37 | NPTELScraper | INFO     | scrape_course:688 | --------------------------------------------------------------------------------
+2026-01-28 22:02:38 | NPTELScraper | INFO     | get_driver:391 | Chrome WebDriver initialized successfully
+2026-01-28 22:02:44 | NPTELScraper | INFO     | scrape_course:706 | Found 36 lectures for NOC:Introduction To Launch Vehicle Analysis And Design
+2026-01-28 22:02:54 | NPTELScraper | INFO     | scrape_course:731 | ✓ [1/36] Lecture 1: Introduction (8638 chars)
+2026-01-28 22:03:00 | NPTELScraper | INFO     | scrape_course:731 | ✓ [2/36] Lecture 2: Course Plan (3222 chars)
+2026-01-28 22:03:08 | NPTELScraper | INFO     | scrape_course:731 | ✓ [3/36] Lecture 3: Ascent Mission Basics (14425 chars)
+2026-01-28 22:03:16 | NPTELScraper | INFO     | scrape_course:731 | ✓ [4/36] Lecture 4: Force and Geometry Models -1 (14606 chars)
+2026-01-28 22:03:23 | NPTELScraper | INFO     | scrape_course:731 | ✓ [5/36] Lecture 5: Force and Geometry Models - 2 (8418 chars)
+2026-01-28 22:03:31 | NPTELScraper | INFO     | scrape_course:731 | ✓ [6/36] Lecture 6: Idealized Performance (16054 chars)
+2026-01-28 22:03:38 | NPTELScraper | INFO     | scrape_course:731 | ✓ [7/36] Lecture 7: Trajectory Under Gravity (14375 chars)
+2026-01-28 22:03:46 | NPTELScraper | INFO     | scrape_course:731 | ✓ [8/36] Lecture 8: Impact of Gravity (12333 chars)
+2026-01-28 22:03:55 | NPTELScraper | INFO     | scrape_course:731 | ✓ [9/36] Lecture 9: Impact of Drag (21446 chars)
+2026-01-28 22:04:05 | NPTELScraper | INFO     | scrape_course:731 | ✓ [10/36] Lecture 10: Curvilinear Motion Concept (13968 chars)
+2026-01-28 22:04:15 | NPTELScraper | INFO     | scrape_course:731 | ✓ [11/36] Lecture 11: Constant Pitch Rate Solution (17739 chars)
+2026-01-28 22:04:22 | NPTELScraper | INFO     | scrape_course:731 | ✓ [12/36] Lecture 12: Constant Velocity Solution (9747 chars)
+2026-01-28 22:04:32 | NPTELScraper | INFO     | scrape_course:731 | ✓ [13/36] Lecture 13: Constant (T/m) Solution (18405 chars)
+2026-01-28 22:04:40 | NPTELScraper | INFO     | scrape_course:731 | ✓ [14/36] Lecture 14: Ascent Mission Design (14368 chars)
+2026-01-28 22:04:48 | NPTELScraper | INFO     | scrape_course:731 | ✓ [15/36] Lecture 15: Multi-stage Rocket Basics (12936 chars)
+2026-01-28 22:04:56 | NPTELScraper | INFO     | scrape_course:731 | ✓ [16/36] Lecture 16: Multi-stage Configuration Basics (13735 chars)
+2026-01-28 22:05:03 | NPTELScraper | INFO     | scrape_course:731 | ✓ [17/36] Lecture 17: Multi-stage Solution Basics (9098 chars)
+2026-01-28 22:05:11 | NPTELScraper | INFO     | scrape_course:731 | ✓ [18/36] Lecture 18: Multi-stage Problem Definition (10796 chars)
+2026-01-28 22:05:19 | NPTELScraper | INFO     | scrape_course:731 | ✓ [19/36] Lecture 19: Optimal Staging Strategy (13029 chars)
+2026-01-28 22:05:29 | NPTELScraper | INFO     | scrape_course:731 | ✓ [20/36] Lecture 20: Lagrange Solution (15243 chars)
+2026-01-28 22:05:37 | NPTELScraper | INFO     | scrape_course:731 | ✓ [21/36] Lecture 21: Approximate Staging Solution (11316 chars)
+2026-01-28 22:05:44 | NPTELScraper | INFO     | scrape_course:731 | ✓ [22/36] Lecture 22: Variant Concept (14279 chars)
+2026-01-28 22:05:52 | NPTELScraper | INFO     | scrape_course:731 | ✓ [23/36] Lecture 23: Variant Design Solution (16955 chars)
+2026-01-28 22:06:00 | NPTELScraper | INFO     | scrape_course:731 | ✓ [24/36] Lecture 24: Parallel Staging Concept (10982 chars)
+2026-01-28 22:06:07 | NPTELScraper | INFO     | scrape_course:731 | ✓ [25/36] Lecture 25: Parallel Staging Benefits (10502 chars)
+2026-01-28 22:06:15 | NPTELScraper | INFO     | scrape_course:731 | ✓ [26/36] Lecture 26: Jet Damping and Ballistic Missiles (13398 chars)
+2026-01-28 22:06:22 | NPTELScraper | INFO     | scrape_course:731 | ✓ [27/36] Lecture 27: Current Rocket Concepts (11704 chars)
+2026-01-28 22:06:28 | NPTELScraper | INFO     | scrape_course:731 | ✓ [28/36] Lecture 28: Launch Widow and SSTO Concepts (9973 chars)
+2026-01-28 22:06:35 | NPTELScraper | INFO     | scrape_course:731 | ✓ [29/36] Lecture 29: Reentry Concept (18175 chars)
+2026-01-28 22:06:44 | NPTELScraper | INFO     | scrape_course:731 | ✓ [30/36] Lecture 30: Ballistic Reentry Solution (12893 chars)
+2026-01-28 22:06:51 | NPTELScraper | INFO     | scrape_course:731 | ✓ [31/36] Lecture 31: Lifting and Other Reentry Modes (11257 chars)
+2026-01-28 22:06:58 | NPTELScraper | INFO     | scrape_course:731 | ✓ [32/36] Lecture 32: Concluding Remarks (5775 chars)
+2026-01-28 22:07:07 | NPTELScraper | INFO     | scrape_course:731 | ✓ [33/36] Lecture 33: Rectilinear Trajectories (13514 chars)
+2026-01-28 22:07:14 | NPTELScraper | INFO     | scrape_course:731 | ✓ [34/36] Lecture 34: Curvilinear Trajectories (11918 chars)
+2026-01-28 22:07:21 | NPTELScraper | INFO     | scrape_course:731 | ✓ [35/36] Lecture 35: Multi-stage Rocket Concept (8755 chars)
+2026-01-28 22:07:27 | NPTELScraper | INFO     | scrape_course:731 | ✓ [36/36] Lecture 36: Optimal Multi-stage Solutions (10365 chars)
+2026-01-28 22:07:28 | NPTELScraper | INFO     | scrape_course:758 | Successfully scraped 36/36 transcripts for NOC:Introduction To Launch Vehicle Analysis And Design
+2026-01-28 22:07:30 | NPTELScraper | INFO     | save_json:1081 | ✓ Saved data to data\intermediate\documents_intermediate_batch_1.json
+2026-01-28 22:07:30 | NPTELScraper | INFO     | run:1204 | 
+================================================================================
+2026-01-28 22:07:30 | NPTELScraper | INFO     | run:1205 | STEP 3: Saving Raw Documents
+2026-01-28 22:07:30 | NPTELScraper | INFO     | run:1206 | ================================================================================
+2026-01-28 22:07:30 | NPTELScraper | INFO     | save_json:1081 | ✓ Saved data to data\intermediate\documents_raw.json
+2026-01-28 22:07:30 | NPTELScraper | INFO     | run:1214 | 
+================================================================================
+2026-01-28 22:07:30 | NPTELScraper | INFO     | run:1215 | STEP 4: Converting to LangChain Format
+2026-01-28 22:07:30 | NPTELScraper | INFO     | run:1216 | ================================================================================
+2026-01-28 22:07:30 | NPTELScraper | INFO     | raw_to_langchain:1025 | Converting 36 raw documents to LangChain format
+2026-01-28 22:07:30 | NPTELScraper | INFO     | raw_to_langchain:1040 | Successfully converted 36 documents
+2026-01-28 22:07:30 | NPTELScraper | INFO     | run:1221 | 
+================================================================================
+2026-01-28 22:07:30 | NPTELScraper | INFO     | run:1222 | STEP 7: Generating Summary
+2026-01-28 22:07:30 | NPTELScraper | INFO     | run:1223 | ================================================================================
+2026-01-28 22:07:30 | NPTELScraper | INFO     | save_json:1081 | ✓ Saved data to data\intermediate\pipeline_summary.json
+2026-01-28 22:07:30 | NPTELScraper | INFO     | _generate_summary:1311 | Summary generated and saved successfully
+2026-01-28 22:07:30 | NPTELScraper | INFO     | run:1229 | 
+================================================================================
+2026-01-28 22:07:30 | NPTELScraper | INFO     | run:1230 | PIPELINE COMPLETED SUCCESSFULLY!
+2026-01-28 22:07:30 | NPTELScraper | INFO     | run:1231 | ================================================================================
+2026-01-28 22:07:30 | NPTELScraper | INFO     | run:1247 | Cleanup completed

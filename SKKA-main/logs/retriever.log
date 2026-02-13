@@ -1,0 +1,611 @@
+2026-01-28 22:57:06 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-01-28 22:57:17 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-01-28 22:57:17 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-01-28 23:06:04 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-01-28 23:07:02 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-01-28 23:07:02 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-01 17:38:54 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-01 17:39:01 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-01 17:39:01 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-01 17:39:01 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-01 17:39:01 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-01 17:39:01 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-01 17:39:50 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-01 17:39:57 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-01 17:39:57 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-01 17:39:57 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-01 17:39:57 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-01 17:39:57 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-01 17:40:41 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-01 17:40:47 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-01 17:40:47 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-01 17:40:47 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-01 17:40:47 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-01 17:40:47 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-01 17:43:34 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-01 17:43:38 | ERROR    | _init_client | Failed to initialize ChromaDB: The paging file is too small for this operation to complete. (os error 1455)
+2026-02-01 17:44:31 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-01 17:44:37 | ERROR    | _init_client | Failed to initialize ChromaDB: The paging file is too small for this operation to complete. (os error 1455)
+2026-02-01 17:44:37 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-01 17:44:39 | ERROR    | _init_client | Failed to initialize ChromaDB: The paging file is too small for this operation to complete. (os error 1455)
+2026-02-01 18:33:48 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-01 18:34:00 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-01 18:34:00 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-01 18:34:00 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-01 18:34:00 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-01 18:34:00 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-01 18:34:00 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-01 18:34:00 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-01 18:34:00 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-01 18:40:21 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-01 18:40:31 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-01 18:40:31 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-01 18:40:31 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-01 18:40:31 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-01 18:40:31 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-01 18:40:32 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-01 18:40:32 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-01 18:40:32 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-01 18:43:03 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-01 18:43:13 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-01 18:43:13 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-01 18:43:13 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-01 18:43:13 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-01 18:43:13 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-01 18:43:15 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-01 18:43:15 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-01 18:43:15 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-01 22:25:25 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-01 22:25:36 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-01 22:25:36 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-01 22:25:36 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-01 22:25:36 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-01 22:25:36 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-01 22:25:37 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-01 22:25:37 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-01 22:25:37 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-01 22:30:07 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-01 22:30:14 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-01 22:30:14 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-01 22:30:14 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-01 22:30:14 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-01 22:30:14 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-01 22:30:14 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-01 22:30:14 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-01 22:30:14 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-01 22:38:49 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-01 22:38:56 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-01 22:38:56 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-01 22:38:56 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-01 22:38:56 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-01 22:38:56 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-01 22:38:57 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-01 22:38:57 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-01 22:38:57 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-01 23:13:06 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-01 23:13:16 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-01 23:13:16 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-01 23:13:16 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-01 23:13:16 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-01 23:13:16 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-01 23:13:18 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-01 23:13:18 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-01 23:13:18 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-01 23:18:04 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-01 23:18:14 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-01 23:18:14 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-01 23:18:14 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-01 23:18:14 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-01 23:18:14 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-01 23:18:14 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-01 23:18:14 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-01 23:18:14 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 00:13:56 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 00:14:06 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 00:14:06 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 00:14:06 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 00:14:06 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 00:14:06 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 00:14:06 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 00:14:06 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 00:14:06 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 00:21:45 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 00:21:57 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 00:21:57 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 00:21:57 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 00:21:57 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 00:21:57 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 00:22:29 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 00:22:29 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 00:22:29 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 00:23:08 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 00:23:08 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 00:23:08 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 00:23:30 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 00:23:30 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 00:23:30 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 00:26:49 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 00:26:49 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 00:26:49 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 00:29:27 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 00:29:27 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 00:29:27 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 00:33:06 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 00:33:06 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 00:33:06 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 00:51:47 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 00:51:47 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 00:51:47 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 00:52:40 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 00:52:40 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 00:52:40 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 00:53:00 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 00:53:00 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 00:53:00 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 00:53:14 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 00:53:14 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 00:53:14 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 00:54:37 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 00:54:37 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 00:54:37 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 00:55:41 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 00:55:41 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 00:55:41 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 00:57:33 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 00:57:33 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 00:57:33 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 00:58:31 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 00:58:31 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 00:58:31 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 01:23:53 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 01:24:04 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 01:24:04 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 01:24:04 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 01:24:04 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 01:24:04 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 01:24:04 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 01:24:04 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 01:24:04 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 01:30:24 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 01:30:38 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 01:30:38 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 01:30:38 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 01:30:38 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 01:30:38 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 01:30:38 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 01:30:38 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 01:30:38 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 01:38:56 | ERROR    | search | Search failed: Expected where to have exactly one operator, got {} in query.
+Traceback (most recent call last):
+  File "C:\Users\kunika auti\Downloads\Nptel AI_1\Nptel AI\retriever.py", line 679, in search
+    results = self.collection.query(
+              ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kunika auti\Downloads\Nptel AI_1\venv\Lib\site-packages\chromadb\api\models\Collection.py", line 213, in query
+    query_request = self._validate_and_prepare_query_request(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kunika auti\Downloads\Nptel AI_1\venv\Lib\site-packages\chromadb\api\models\CollectionCommon.py", line 95, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kunika auti\Downloads\Nptel AI_1\venv\Lib\site-packages\chromadb\api\models\CollectionCommon.py", line 309, in _validate_and_prepare_query_request
+    validate_filter_set(filter_set=filters)
+  File "C:\Users\kunika auti\Downloads\Nptel AI_1\venv\Lib\site-packages\chromadb\api\types.py", line 477, in validate_filter_set
+    validate_where(filter_set["where"])
+  File "C:\Users\kunika auti\Downloads\Nptel AI_1\venv\Lib\site-packages\chromadb\api\types.py", line 1047, in validate_where
+    raise ValueError(f"Expected where to have exactly one operator, got {where}")
+ValueError: Expected where to have exactly one operator, got {} in query.
+2026-02-02 01:46:03 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 01:46:10 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 01:46:10 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 01:46:10 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 01:46:10 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 01:46:10 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 01:46:10 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 01:46:10 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 01:46:10 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 01:53:58 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 01:54:06 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 01:54:06 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 01:54:06 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 01:54:06 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 01:54:06 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 01:54:06 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 01:54:06 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 01:54:06 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 01:55:35 | ERROR    | search | Search failed: Expected where to have exactly one operator, got {'domain': 'Artificial Intelligence', 'complexity': 'medium', 'key_concepts': ['Deep Learning', 'Neural Networks']} in query.
+Traceback (most recent call last):
+  File "C:\Users\kunika auti\Downloads\Nptel AI_1\Nptel AI\retriever.py", line 679, in search
+    results = self.collection.query(
+              ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kunika auti\Downloads\Nptel AI_1\venv\Lib\site-packages\chromadb\api\models\Collection.py", line 213, in query
+    query_request = self._validate_and_prepare_query_request(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kunika auti\Downloads\Nptel AI_1\venv\Lib\site-packages\chromadb\api\models\CollectionCommon.py", line 95, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kunika auti\Downloads\Nptel AI_1\venv\Lib\site-packages\chromadb\api\models\CollectionCommon.py", line 309, in _validate_and_prepare_query_request
+    validate_filter_set(filter_set=filters)
+  File "C:\Users\kunika auti\Downloads\Nptel AI_1\venv\Lib\site-packages\chromadb\api\types.py", line 477, in validate_filter_set
+    validate_where(filter_set["where"])
+  File "C:\Users\kunika auti\Downloads\Nptel AI_1\venv\Lib\site-packages\chromadb\api\types.py", line 1047, in validate_where
+    raise ValueError(f"Expected where to have exactly one operator, got {where}")
+ValueError: Expected where to have exactly one operator, got {'domain': 'Artificial Intelligence', 'complexity': 'medium', 'key_concepts': ['Deep Learning', 'Neural Networks']} in query.
+2026-02-02 02:03:07 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 02:03:07 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 02:03:07 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 02:05:12 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 02:05:21 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 02:05:21 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 02:05:21 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 02:05:21 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 02:05:21 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 02:05:39 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 02:05:39 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 02:05:39 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 02:06:13 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 02:06:14 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 02:06:14 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 02:06:43 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 02:06:43 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 02:06:43 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 02:10:30 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 02:10:30 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 02:10:30 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 02:16:35 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 02:16:46 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 02:16:46 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 02:16:46 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 02:16:46 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 02:16:46 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 02:16:46 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 02:16:46 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 02:16:46 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 09:20:15 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 09:20:26 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 09:20:26 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 09:20:26 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 09:20:26 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 09:20:26 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 10:13:29 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 10:13:34 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 10:13:34 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 10:13:34 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 10:13:34 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 10:13:34 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 10:26:24 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 10:26:28 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 10:26:28 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 10:26:28 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 10:26:28 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 10:26:28 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 10:38:54 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 10:38:58 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 10:38:58 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 10:38:58 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 10:38:58 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 10:38:58 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 10:38:58 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 10:38:58 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 10:38:58 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 10:40:20 | ERROR    | search | Search failed: Expected where to have exactly one operator, got {} in query.
+Traceback (most recent call last):
+  File "C:\Users\kunika auti\Downloads\Nptel AI_1\Nptel AI\retriever.py", line 679, in search
+    results = self.collection.query(
+              ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kunika auti\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\api\models\Collection.py", line 213, in query
+    query_request = self._validate_and_prepare_query_request(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kunika auti\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\api\models\CollectionCommon.py", line 95, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kunika auti\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\api\models\CollectionCommon.py", line 309, in _validate_and_prepare_query_request
+    validate_filter_set(filter_set=filters)
+  File "C:\Users\kunika auti\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\api\types.py", line 477, in validate_filter_set
+    validate_where(filter_set["where"])
+  File "C:\Users\kunika auti\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromadb\api\types.py", line 1047, in validate_where
+    raise ValueError(f"Expected where to have exactly one operator, got {where}")
+ValueError: Expected where to have exactly one operator, got {} in query.
+2026-02-02 10:41:21 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 10:41:27 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 10:41:27 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 10:41:27 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 10:41:27 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 10:41:27 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 10:41:27 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 10:41:27 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 10:41:27 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 10:45:43 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 10:45:48 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 10:45:48 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 10:45:48 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 10:45:48 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 10:45:48 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 10:46:15 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 10:46:15 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 10:46:15 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 10:53:57 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 10:54:03 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 10:54:03 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 10:54:03 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 10:54:03 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 10:54:03 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 10:55:47 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 10:55:47 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 10:55:47 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 11:21:30 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 11:21:35 | ERROR    | _init_client | Failed to initialize ChromaDB: Collection 'nptel_transcripts' not found. Please run the ingestion pipeline first.
+2026-02-02 11:21:35 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 11:21:35 | ERROR    | _init_client | Failed to initialize ChromaDB: Collection 'nptel_transcripts' not found. Please run the ingestion pipeline first.
+2026-02-02 11:22:38 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 11:22:43 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 11:22:43 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 11:22:43 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 11:22:43 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 11:22:43 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 11:22:43 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 11:22:43 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 11:22:43 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 11:24:09 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 11:24:15 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 11:24:15 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 11:24:15 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 11:24:15 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 11:24:15 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 11:24:46 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 11:24:46 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 11:24:46 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 11:31:03 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 11:31:09 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 11:31:09 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 11:31:15 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 11:31:15 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 11:31:15 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 11:31:15 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 11:31:15 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 11:31:15 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 11:32:30 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 11:32:35 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 11:32:35 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 11:32:38 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 11:32:39 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 11:32:39 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 11:32:39 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 11:32:39 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 11:32:39 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 11:32:39 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 11:32:39 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 11:32:39 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 11:43:03 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 11:43:08 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 11:43:08 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 11:43:08 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 11:43:08 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 11:43:08 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 11:43:08 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 11:43:08 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 11:43:08 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 11:46:42 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 11:46:42 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 11:46:42 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 11:49:27 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 11:49:32 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 11:49:32 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 11:49:36 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 11:49:36 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 11:49:36 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 11:49:36 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 11:49:36 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 11:49:36 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 11:49:36 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 11:49:36 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 11:49:36 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 11:56:25 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 11:56:31 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 11:56:31 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 11:56:31 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 11:56:31 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 11:56:31 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 11:57:01 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 11:57:01 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 11:57:01 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 12:15:45 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 12:15:54 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 12:15:54 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 12:15:54 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 12:15:54 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 12:15:54 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 12:19:36 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 12:19:44 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 12:19:44 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 12:19:44 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 12:19:44 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 12:19:44 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 12:20:21 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 12:20:21 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 12:20:21 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 12:27:22 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 12:27:30 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 12:27:30 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 12:27:30 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 12:27:30 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 12:27:30 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 12:27:56 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 12:27:56 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 12:27:56 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 12:32:31 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 12:32:39 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 12:32:39 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 12:32:39 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 12:32:39 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 12:32:39 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 12:32:58 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 12:32:58 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 12:32:58 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 12:38:51 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 12:38:55 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 12:38:55 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 12:38:55 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 12:38:55 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 12:38:55 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 12:38:55 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 12:38:55 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 12:38:55 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 12:42:07 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 12:42:12 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 12:42:12 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 12:42:12 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 12:42:12 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 12:42:12 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 12:42:36 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 12:42:36 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 12:42:36 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 12:49:26 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 12:49:30 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 12:49:30 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 12:50:05 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 12:50:05 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 12:50:05 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 12:52:23 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 12:52:27 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 12:52:27 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 12:54:26 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 12:54:30 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 12:54:30 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 12:58:24 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 12:58:28 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 12:58:28 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 13:04:24 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 13:04:24 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 13:04:24 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 13:05:21 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 13:05:21 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 13:05:21 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 13:06:11 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 13:06:11 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 13:06:11 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 13:06:53 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 13:06:53 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 13:06:53 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 13:07:20 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 13:07:20 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 13:07:20 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 13:13:29 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 13:13:33 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 13:13:33 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 13:14:01 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 13:14:01 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 13:14:01 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 13:14:36 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 13:14:36 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 13:14:36 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 13:16:54 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 13:16:58 | ERROR    | _init_client | Failed to initialize ChromaDB: The paging file is too small for this operation to complete. (os error 1455)
+2026-02-02 13:17:10 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 13:17:12 | ERROR    | _init_client | Failed to initialize ChromaDB: The paging file is too small for this operation to complete. (os error 1455)
+2026-02-02 13:21:11 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 13:21:16 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 13:21:16 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 13:21:19 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 13:21:19 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 13:21:19 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 13:21:19 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 13:21:20 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 13:21:20 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 13:21:20 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 13:21:20 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 13:21:20 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 13:22:48 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 13:22:53 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 13:22:53 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 13:22:53 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 13:22:53 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 13:22:53 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 13:22:53 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 13:22:53 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 13:22:53 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 13:24:21 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 13:24:28 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 13:24:28 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 13:24:28 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 13:24:28 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 13:24:28 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 13:24:28 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 13:24:28 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 13:24:28 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 13:25:46 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 13:25:53 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 13:25:53 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 13:25:53 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 13:25:53 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 13:25:53 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 13:25:53 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 13:25:53 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 13:25:53 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 13:29:11 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 13:29:19 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 13:29:19 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 13:29:19 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 13:29:19 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 13:29:19 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 13:29:19 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 13:29:19 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 13:29:19 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 13:33:52 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 13:34:00 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 13:34:00 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 13:36:47 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 13:36:47 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 13:36:47 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 15:00:23 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 15:00:23 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 15:00:23 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 15:58:10 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 15:58:19 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 15:58:19 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 15:58:26 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 15:58:26 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 15:58:26 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 15:58:26 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 15:58:26 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 15:58:26 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 15:58:27 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 15:58:27 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 15:58:27 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 16:00:06 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 16:00:15 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 16:00:15 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 16:00:23 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 16:00:23 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 16:00:23 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 16:00:23 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 16:00:23 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 16:00:23 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 16:00:23 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 16:00:23 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 16:00:23 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 16:01:55 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 16:02:04 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 16:02:04 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 16:19:38 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 16:19:50 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 16:19:50 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 16:20:00 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 16:20:00 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 16:20:00 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 16:20:00 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 16:20:00 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 16:20:00 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 16:20:00 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 16:20:00 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 16:20:00 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 16:34:55 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 16:34:55 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 16:34:55 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 16:35:42 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 16:35:42 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 16:35:42 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-02 17:07:53 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-02 17:07:53 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-02 17:07:53 | INFO     | __init__ | ChromaDB Retriever initialized successfully
+2026-02-05 22:04:44 | INFO     | _init_client | Connecting to ChromaDB at: data\chromadb
+2026-02-05 22:04:55 | INFO     | _init_client | ✓ Connected to collection 'nptel_lectures' with 36 documents
+2026-02-05 22:04:55 | INFO     | __init__ | ChromaDB Retriever initialized successfully
